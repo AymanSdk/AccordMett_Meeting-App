@@ -1,5 +1,6 @@
 # AccordMeet a modern meeting App
-
+- Author : [Aymane Sadiki](https://github.com/AymanSdk)
+![alt text](./public/images/readme.png)
 Developed using the latest technologies such as Next.js and TypeScript, this project enables users to securely log in, create meetings, and utilize a range of meeting features including recording, screen sharing, and participant management.
 
 
