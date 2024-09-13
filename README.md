@@ -1,9 +1,11 @@
 # AccordMeet a modern meeting App
-- Author : [Aymane Sadiki](https://github.com/AymanSdk)
----
-![alt text](./public/images/readme.png)
-Developed using the latest technologies such as Next.js and TypeScript, this project enables users to securely log in, create meetings, and utilize a range of meeting features including recording, screen sharing, and participant management.
 
+- Author : [Aymane Sadiki](https://github.com/AymanSdk)
+
+---
+
+![alt text](./public/images/AccordMeet.gif)
+Developed using the latest technologies such as Next.js and TypeScript, this project enables users to securely log in, create meetings, and utilize a range of meeting features including recording, screen sharing, and participant management.
 
 ## Tech Stack
 
@@ -17,7 +19,6 @@ Developed using the latest technologies such as Next.js and TypeScript, this pro
 ## Features
 
 - **Authentication**: Provides secure login and authorization features using Clerk, allowing users to sign in via social accounts or traditional email and password methods while managing access levels and permissions.
-  
 - **New Meeting**: Start a new meeting quickly and configure camera and microphone settings before joining.
 
 - **Meeting Controls**: Manage various aspects of the meeting including recording, emoji reactions, screen sharing, muting/unmuting, sound adjustments, grid layout, participant list view, and participant management (pinning, muting, unmuting, blocking, allowing video share).
@@ -35,7 +36,6 @@ Developed using the latest technologies such as Next.js and TypeScript, this pro
 - **Join Meetings via Link**: Join meetings created by others by using a provided link.
 
 - **Secure Real-time Functionality**: Ensure all interactions are secure and occur in real-time, maintaining user privacy and data integrity.
-
 
 ## Quick Start
 
@@ -93,4 +93,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
